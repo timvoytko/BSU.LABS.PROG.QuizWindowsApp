@@ -1,0 +1,50 @@
+1.Triangle inequality  in Euclidean geometry is:
+0
+4
+0 a^2+b^2 >= C^2
+0 a <= b+c
+1 ||a+b|| <= ||a||+||b||
+0 (a+b)/2 >= sqrt(ab)
+2.The Cauchy Schwarz inequality in Euclidean geometry is:
+0
+3
+0 (a+b)/2 >= sqrt(ab)
+1 |<a,b>| <= ||a||*||b||
+0 (1+a)^b >= 1+ab
+3.Which of them did not describe the sign of convergence of a series
+0
+4
+1 Etienne Bezout
+0 Gottfried Wilhelm Leibniz
+0 Jean le Rond d'Alembert
+0 Augustin-Louis Cauchy
+4.Choose some creators of Non-Euclidean geometry
+1
+4
+1 Bernhard Riemann
+0 Bertrand Russell
+1 Nikolai Lobachevsky
+0 Mikhail Ostrogradsky
+5. n! is given by the formula
+0
+5
+0 1+2+3+..+n
+0 1^2+2^2+3^2+...+n^2
+0 sqrt(1^3+2^3+3^3+...+n^3)
+1 1*2*3*...*n
+0 1/1+1/2+1/3+...+1/n
+6.Binomial coefficient(n choose k) is given by the formula
+0
+4
+1 n!/((n-k!)k!)
+0 n!/k!
+0 (n+k)!/n!
+0 (n+k-1)!/(n-k)!
+7.Angle of a regular polygon can be equal to
+1
+5
+1 ~178.6
+1 90
+1 108
+0 45
+1 ~174.375
